@@ -1,0 +1,11 @@
+F:\LapTrinh.Net\Bai_Cuoi_Ky\Code\BaiCuoiKy\FormSignIn\bin\Debug\FormSignIn.exe.config
+F:\LapTrinh.Net\Bai_Cuoi_Ky\Code\BaiCuoiKy\FormSignIn\bin\Debug\FormSignIn.exe
+F:\LapTrinh.Net\Bai_Cuoi_Ky\Code\BaiCuoiKy\FormSignIn\bin\Debug\FormSignIn.pdb
+F:\LapTrinh.Net\Bai_Cuoi_Ky\Code\BaiCuoiKy\FormSignIn\obj\Debug\FormSignIn.csproj.AssemblyReference.cache
+F:\LapTrinh.Net\Bai_Cuoi_Ky\Code\BaiCuoiKy\FormSignIn\obj\Debug\FormSignIn.csproj.SuggestedBindingRedirects.cache
+F:\LapTrinh.Net\Bai_Cuoi_Ky\Code\BaiCuoiKy\FormSignIn\obj\Debug\FormSignIn.Form1.resources
+F:\LapTrinh.Net\Bai_Cuoi_Ky\Code\BaiCuoiKy\FormSignIn\obj\Debug\FormSignIn.Properties.Resources.resources
+F:\LapTrinh.Net\Bai_Cuoi_Ky\Code\BaiCuoiKy\FormSignIn\obj\Debug\FormSignIn.csproj.GenerateResource.cache
+F:\LapTrinh.Net\Bai_Cuoi_Ky\Code\BaiCuoiKy\FormSignIn\obj\Debug\FormSignIn.csproj.CoreCompileInputs.cache
+F:\LapTrinh.Net\Bai_Cuoi_Ky\Code\BaiCuoiKy\FormSignIn\obj\Debug\FormSignIn.exe
+F:\LapTrinh.Net\Bai_Cuoi_Ky\Code\BaiCuoiKy\FormSignIn\obj\Debug\FormSignIn.pdb
